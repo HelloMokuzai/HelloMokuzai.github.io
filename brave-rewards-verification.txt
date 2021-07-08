@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: hellomokuzai.github.io
+Token: 4c47b143f70c789c3e920c3de786221ddaeb86ec4271cdcffbe59a0e3aeb4a6b
